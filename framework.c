@@ -1,4 +1,4 @@
-// Create and read function in framework.
+// Create and read functions in framework.
 
 #include <stdio.h>
 #include <stdlib.h>
